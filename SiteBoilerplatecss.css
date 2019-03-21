@@ -1,0 +1,16 @@
+html {
+    background-color: #252223;
+    /*The hex for the team black is #252223 green is #156A3D the yellow is #FDCC03*/
+
+}
+#logoImage {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 330px;
+    background-color: #252223;
+}
+
+#central {
+    background-color: #252223;
+}
